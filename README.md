@@ -1,4 +1,4 @@
-### Таблица: значения FPS отслеживания рук на различных платформах
+### Значения FPS отслеживания рук на различных платформах
 | Платформа | Leap Motion Controller | ManoMotion SDK | Google MediaPipe | Vive Hand Tracking SDK | Mixed Reality ToolKit | Oculus Hand Tracking |
 | - | - | - | - | - | - | - |
 | Windows | + | + | 31 | + | + | + |
