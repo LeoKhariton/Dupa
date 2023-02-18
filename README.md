@@ -1,3 +1,7 @@
+### Обзор средств для трекинга рук без контроллеров ###
+| | Leap Motion | ManoMotion SDK | Google MediaPipe | Vive Hand Tracking SDK | Mixed Reality ToolKit | Oculus Hand Tracking | FingerTrack | PrimeX Haptic VR |
+| - | - | - | - | - | - | - | - | - |
+| Платформы | ПК | ПК, Andriod, iOS | ПК |
 ### Значения FPS отслеживания рук на различных платформах
 | Платформа | Leap Motion Controller | ManoMotion SDK | Google MediaPipe | Vive Hand Tracking SDK | Mixed Reality ToolKit | Oculus Hand Tracking |
 | - | - | - | - | - | - | - |
