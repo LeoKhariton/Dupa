@@ -2,6 +2,7 @@
 Это приложение для ПК, которое может работать как в десктопном варианте, так и в виртуальной реальности при наличии соответствующего оборудования или без него.
 ## Демонстрация ##
 ![демонстрация](https://github.com/LeoKhariton/Dupa/blob/main/видео%20демонстрация.gif)  
+![демонстрация](https://github.com/LeoKhariton/Dupa/blob/main/демонстрация%202.gif)
 [Скачать видео](https://github.com/LeoKhariton/Dupa/blob/main/VirLab_001%202023-02-25%2021-25-47%20(online-video-cutter.com).mp4)  
 ## Desktop ##
 ### Без контроллера Leap Motion ###
