@@ -5,7 +5,7 @@
 
 ## Демонстрация ##
 ![демонстрация](https://github.com/LeoKhariton/Dupa/blob/main/видео%20демонстрация.gif)  
-![демонстрация](https://github.com/LeoKhariton/Dupa/blob/main/демонстрация%202.gif)  
+![демонстрация](https://github.com/LeoKhariton/Dupa/blob/main/рост1%20(online-video-cutter.com).gif)  
 [Скачать видео](https://github.com/LeoKhariton/Dupa/blob/main/VirLab_001%202023-02-25%2021-25-47%20(online-video-cutter.com).mp4)  
 ## Desktop ##
 ### Без контроллера Leap Motion ###
